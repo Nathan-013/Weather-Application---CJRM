@@ -1,0 +1,22 @@
+body {
+  background: rgb(37, 19, 39);
+}
+
+h1 {
+  color: rgb(199, 196, 196);
+}
+
+[data-js=weather-info] {
+  color: rgb(37, 19, 39);
+}
+
+.container {
+  max-width: 380px;
+}
+
+.time-icon {
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
+  background: rgb(85, 69, 95);
+}
