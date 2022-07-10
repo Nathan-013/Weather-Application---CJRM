@@ -6,6 +6,8 @@ A Weather Application é uma aplicação feita em JavaScript puro, com o uso da 
  <img src='./weatherApp.gif' align='center'/>
 </p>
 
+➡️ Teste a aplicação [Clique Aqui!](https://weatherapp-013.netlify.app/)
+ 
 ---
 
 #### Feito por Nathan Moreira 🦊 🐸 🍜
